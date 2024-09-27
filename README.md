@@ -1,18 +1,20 @@
-## Hello, I'm Giovanni Ferretti 👋
+## Welcome to My GitHub Profile
 
-### Technologies Used in This Profile:
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-I primarily use Java for various projects, focusing on software development and automation.  
+### About Me
+I am a Computer Science student at La Sapienza University in Rome, passionate about software development and always eager to learn new technologies.
 
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assembly&logoColor=white)  
-Assembly is used exclusively for educational purposes to study low-level programming at La Sapienza University.
+### Skills and Interests
+- **Java**: My primary programming language, used for various projects and academic work.
+- **Assembly**: Currently exploring basic concepts as part of my studies to understand low-level programming.
 
-### Main Projects:
-- [JTrash](https://github.com/FerrettiGiovanni/JTrash): A card game developed in Java.
-- [Assembly Exercises](https://github.com/FerrettiGiovanni/esercizi-assembly): Educational projects and exercises in Assembly language.
-- [JuazzAPP](https://github.com/FerrettiGiovanni/JuazzAPP): Java application for messaging automation and scheduling.
+### Projects
+- [**JTrash**](https://github.com/FerrettiGiovanni/JTrash): A card game developed in Java.
+- [**JuazzAPP**](https://github.com/FerrettiGiovanni/JuazzAPP): Java application for messaging automation.
+- [**Assembly Exercises**](https://github.com/FerrettiGiovanni/esercizi-assembly): Exercises to support my learning journey in Assembly.
 
-Thank you for visiting my profile! ✨
+Thank you for visiting my profile!
+
+
 
 <!--
 - 🔭 I’m currently working on ...
