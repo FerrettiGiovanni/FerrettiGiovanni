@@ -1,10 +1,20 @@
-## Hi there 👋
+## Hello, I'm Giovanni Ferretti 👋
+
+### Technologies Used in This Profile:
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+I primarily use Java for various projects, focusing on software development and automation.  
+
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assembly&logoColor=white)  
+Assembly is used for educational purposes to deepen my understanding of low-level programming concepts.
+
+### Main Projects:
+- [JTrash](https://github.com/FerrettiGiovanni/JTrash): A card game developed in Java.
+- [Assembly Exercises](https://github.com/FerrettiGiovanni/esercizi-assembly): Educational projects and exercises in Assembly language.
+- [JuazzAPP](https://github.com/FerrettiGiovanni/JuazzAPP): Java application for messaging automation and scheduling.
+
+Thank you for visiting my profile! ✨
 
 <!--
-**FerrettiGiovanni/FerrettiGiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
