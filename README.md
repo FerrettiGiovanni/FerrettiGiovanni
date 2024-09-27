@@ -4,7 +4,7 @@
 I am a Computer Science student at La Sapienza University in Rome, passionate about software development and always eager to learn new technologies.
 
 ### Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrettiGiovanni&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrettiGiovanni&layout=compact&theme=dark&nocache=1)
 
 ### Skills and Interests
 - **Java**: My primary programming language, used for various projects and academic work.
