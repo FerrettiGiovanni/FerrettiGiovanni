@@ -3,6 +3,9 @@
 ### About Me
 I am a Computer Science student at La Sapienza University in Rome, passionate about software development and always eager to learn new technologies.
 
+### Languages and Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrettiGiovanni&layout=compact&theme=dark)
+
 ### Skills and Interests
 - **Java**: My primary programming language, used for various projects and academic work.
 - **Assembly**: Currently exploring basic concepts as part of my studies to understand low-level programming.
@@ -13,8 +16,6 @@ I am a Computer Science student at La Sapienza University in Rome, passionate ab
 - [**Assembly Exercises**](https://github.com/FerrettiGiovanni/esercizi-assembly): Exercises to support my learning journey in Assembly.
 
 Thank you for visiting my profile!
-
-
 
 <!--
 - 🔭 I’m currently working on ...
