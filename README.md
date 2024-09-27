@@ -5,7 +5,7 @@
 I primarily use Java for various projects, focusing on software development and automation.  
 
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assembly&logoColor=white)  
-Assembly is used for educational purposes to deepen my understanding of low-level programming concepts.
+Assembly is used exclusively for educational purposes to study low-level programming at La Sapienza University.
 
 ### Main Projects:
 - [JTrash](https://github.com/FerrettiGiovanni/JTrash): A card game developed in Java.
