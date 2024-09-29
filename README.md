@@ -6,7 +6,7 @@ I am a Computer Science student at La Sapienza University in Rome, passionate ab
 ### Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrettiGiovanni&layout=compact&theme=tokyonight&nocache=1)
 
-### Skills and Interests
+### Interests
 - **Java**: My primary programming language, used for various projects and academic work.
 - **Flutter/Dart**: Gaining experience with my first project, FocusTimer, to manage and monitor study sessions.
 - **Assembly**: Currently exploring basic concepts as part of my studies to understand low-level programming.
