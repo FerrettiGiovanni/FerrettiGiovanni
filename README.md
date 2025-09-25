@@ -16,6 +16,7 @@ I am a Computer Science student at La Sapienza University in Rome, passionate ab
 - [**JuazzAPP**](https://github.com/FerrettiGiovanni/JuazzAPP): Java application for messaging automation.
 - [**FocusTimer**](https://github.com/FerrettiGiovanni/FocusTimer): A Flutter application designed to help manage and monitor study sessions effectively.
 - [**Assembly Exercises**](https://github.com/FerrettiGiovanni/esercizi-assembly): Exercises to support my learning journey in Assembly.
+- [**Xss Project**](https://github.com/FerrettiGiovanni/xssproject): Educational project demonstrating a stored XSS attack and phishing technique using Node.js, MongoDB, and Docker.
 
 
 Thank you for visiting my profile!
