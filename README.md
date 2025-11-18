@@ -9,7 +9,7 @@ I am a Computer Science student at La Sapienza University in Rome, passionate ab
 ### Interests
 - **Java**: My primary programming language, used for various projects and academic work.
 - **Flutter/Dart**: Gaining experience with my first project, FocusTimer, to manage and monitor study sessions.
-- **Assembly**: Currently exploring basic concepts as part of my studies to understand low-level programming.
+- **Assembly**: Currently exploring basic concepts as part of my studies to understand low-level programming
 
 ### Projects
 - [**JTrash**](https://github.com/FerrettiGiovanni/JTrash): A card game developed in Java.
